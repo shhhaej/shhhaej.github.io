@@ -1,4 +1,3 @@
-ⓒ choiiis'github themo
 
 ## 🦥 `shhhaej Devlog`
 
