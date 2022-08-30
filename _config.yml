@@ -16,11 +16,11 @@ minimal_mistakes_skin: "plum" #"plum", "default" "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "Shhhaej Devlog"
+title: "shhhaej Devlog"
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "shhhaej"
-description: "Shhhaej DevLog"
+description: "shhhaej DevLog"
 url: "https://shhhaej.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "shhhaej/shhhaej.github.io"
