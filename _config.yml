@@ -16,11 +16,11 @@ minimal_mistakes_skin: "plum" #"plum", "default" "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "shhhaej vlog"
+title: "Shhhaej Devlog"
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "shhhaej"
-description: "shhhaej vLog"
+description: "Shhhaej DevLog"
 url: "https://shhhaej.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "shhhaej/shhhaej.github.io"
@@ -96,7 +96,7 @@ analytics:
 # Site Author
 author:
   name: "shhhaej"
-  avatar: "/assets/images/meee.svg"
+  avatar: "/assets/images/memoji.png"
   #   bio              : "Hamppiness!"
   # location         : "Seoul, Korea"
   # email            : "bemychoiiis@gmail.com"
