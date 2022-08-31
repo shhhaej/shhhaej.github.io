@@ -6,7 +6,7 @@ comments: false
 ---
 
 <div>
-    <img src="/assets/images/about_photo.jpg" alt="about_meee" width="70%" min-width="700px" itemprop="image">
+    <img src="/assets/images/about_photo2.jpg" alt="about_meee" width="70%" min-width="700px" itemprop="image">
 </div>
 
 
@@ -28,7 +28,7 @@ comments: false
         </li>
         <li>
           <a href="https://www.instagram.com//" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">  https://www.instagram.com//</span>
+            <i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">  https://www.instagram.com/</span>
           </a>
         </li>
     </ul>
