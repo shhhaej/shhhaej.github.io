@@ -11,13 +11,10 @@
 
 > 🌴 **목차**
 
-┌ `Algorithm`  
-├ `C++`  
-├ `Python`  
+┌ `Web`  
+├ `Java`    
 ├ `Git`  
-├ `GitHub Blog`  
-├ `Maching Learning`  
-└ `Web`
+└ `GitHub Blog`  
 
 
 <br>
