@@ -3,7 +3,7 @@
 
 📎 **블로그 바로 가기**
 
-[`https://shhhaej.github.io/`](https://shhhaej.github.io/)
+[`https://shhhaej.github.io`](https://shhhaej.github.io)
 
 ---
 
