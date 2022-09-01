@@ -1,19 +1,19 @@
 ---
-title: "[GitHub Blog] velog에서 GitHub 블로그로"
-excerpt: "velog에서 GitHub 블로그로 옮긴 이유. velog와 깃허브 블로그의 장단점. 다시 시작하는 블로그 :)"
+title: "[GitHub Blog] 고민 끝에 GitHub 블로그 시작"
+excerpt: "다시 시작하는 블로그 :)"
 
 categories:
   - GitHub Blog
 tags:
   - [GitHub Blog, Git, 깃허브 블로그]
 
-permalink: /github-blog/why-did-i-move-to-github-blog/
+permalink: /github-blog/
 
 toc: true
 toc_sticky: true
  
-date: 2021-09-05
-last_modified_at: 2021-10-01
+date: 2022-08-31
+last_modified_at: 2022-08-31
 
 # sitemap :
 #   changefreq : daily
