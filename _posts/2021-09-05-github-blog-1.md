@@ -38,8 +38,10 @@ last_modified_at: 2022-08-31
 ![new-repository-2](../assets/images/posts_img/github-blog/new-repository-2.jpg)
 
 3. <mark>clone한다.</mark>
+
 원하는 경로로 이동한 다음 터미널을 열어 클론한다.
 git clone https://... 복사한 주소
+
 ![new-repository-3](../assets/images/posts_img/github-blog/new-repository-3.jpg)
 
 4. 
