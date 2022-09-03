@@ -32,6 +32,13 @@ last_modified_at: 2022-08-26
 * <https://jamstackthemes.dev/ssg/jekyll/>
 
 <br>
+
+* <www.jekyll-themes.com>
+* <www.jekyllthemes.io>
+* <www.jekyllthemes.org>
+* <www.jamstackthemes.dev>
+
+<br>
 <br>
 
 ### 깃허브 블로그 한번 만들어봐!
