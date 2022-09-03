@@ -148,7 +148,7 @@ http://127.0.0.1:4000 를 주소창에 입력한다.
 <br>
 
 
-- <mark>세팅된 설정 변경</mark>
+### 세팅된 설정 변경
 
 저는 choiiis님 README.md 파일에 안내된 내용대로 설정을 변경한다.
 
@@ -161,12 +161,16 @@ http://127.0.0.1:4000 를 주소창에 입력한다.
 
 <br>
 <br>
+<br>
 
-당황하지 말고 
 
-jekyll new ./ - -force 를 당당하게 입력한다.
+### Post 추가
 
-![force-solution](../assets/images/posts_img/github-blog/force-solution.JPG)
+_posts 폴더에 원하는 내용을 markdown 형식으로 작성한다.
+
+저는 Hello World 를 입력했다 😎
+
+![post](../assets/images/posts_img/github-blog/post.jpg)
 
 
 <br>
@@ -174,70 +178,17 @@ jekyll new ./ - -force 를 당당하게 입력한다.
 <br>
 
 
-- <mark>bundle install</mark>
+### Push 
 
-bundle install 
+설정 변경이 모두 끝나면 Push하면 된다.<br>
 
-위 명령어를 입력한다.
+git add . <br>
+git commit -m "커밋 메시지" <br>
+git push
 
-
-<br>
-<br>
-<br>
-
-
-- <mark>Jekyll을 로컬서버로 연결하기</mark>
-
-bundle exec jekyll serve  를 입력하면 로컬서버가 띄워진다.
-
-단...
-
-또 두둥ㅠㅠㅠ
-
-![trace](../assets/images/posts_img/github-blog/trace.JPG)
-<span style="color:red">    
-Jekyll 4.2.2  Please append '- -trace' to be 'serve' command for any additional information or backtrace.
-<span>
-
-bundle add webrick 를 입력하면 오류 해결✨
-
-<br>
-
-그럼 다시 
-
-bundle exec jekyll serve 를 입력
-
-![bundle](../assets/images/posts_img/github-blog/bundle-1.JPG)
-![bundle](../assets/images/posts_img/github-blog/bundle-2.jpg)
-
-브라우저 주소창에 'http://127.0.0.1:4000' 입력하면..!
-
-<br>
-
-요로코롬 잘 나오면 성공 오예오예😆🙌
-
-![jekyll](../assets/images/posts_img/github-blog/jekyll.JPG)
-
-
-<br>
-<br>
-<br>
-
-
-✔️ 참고로!
-혹시 bundle exec jekyll serve 를 입력 시,
-해당 내용이 떴을 경우에는
-![conflict](../assets/images/posts_img/github-blog/conflict.JPG)
-
-이건 오류는 아니고 중복된 파일로 주의하란 문구란다.
-
-그래도 신경쓰이니까<br>
-
-404.html<br>
-about.markdown<br>
-index.markdown<br>
-
-파일을 삭제하면 된다.
+Push 후에<br>
+주소창에 username.github.io 를 입력하여 확인하면<br> 
+드디어 완성 😊✌️
 
 
 <br>
