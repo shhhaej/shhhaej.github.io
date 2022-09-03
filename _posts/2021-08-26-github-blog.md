@@ -29,10 +29,12 @@ last_modified_at: 2022-08-26
 <span style="color:gray">- [jekyllthemes.org](http://jekyllthemes.org/)</span><br>
 <span style="color:gray">- [jamstackthemes.dev](https://jamstackthemes.dev/ssg/jekyll/)</span><br>
 
+<br>
+
 하지만 난 이미 한 테마 시도 후에<br>
 오류 탈탈 털려서 두번이나 테마 전체 리셋 후에 다시 시도 했다 🥴
 
-그래서 이틀 날리고.....
+그래서 이틀 날리고.....<br>
 한참 테마 고민 끝에 알고 있었던 choiiis님의 블로그 테마를 다시 적용하기로 했다.
 
 원래는 choiiis님의 github를 fork해서 사용중이었는데<br>
