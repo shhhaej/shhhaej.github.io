@@ -154,7 +154,7 @@ Conflict: C:/GitHub/shhhaej.github.io exists and is not empty.<br>
 
 당황하지 말고 
 
-jekyll new ./ --force 를 당당하게 입력한다.
+✔️ jekyll new ./ --force 를 당당하게 입력한다.
 
 ![force-solution](../assets/images/posts_img/github-blog/force-solution.JPG)
 
@@ -178,7 +178,7 @@ bundle install
 
 - <mark>Jekyll을 로컬서버로 연결하기</mark>
 
-bundle exec jekyll serve  를 입력하면 로컬서버가 띄워진다.
+✔️ bundle exec jekyll serve  를 입력하면 로컬서버가 띄워진다.
 
 단...
 
@@ -189,7 +189,7 @@ bundle exec jekyll serve  를 입력하면 로컬서버가 띄워진다.
 Jekyll 4.2.2  Please append '--trace' to be 'serve' command for any additional information or backtrace.
 <span>
 
-bundle add webrick 를 입력하면 오류 해결
+bundle add webrick 를 입력하면 오류 해결✨
 
 
 
