@@ -40,27 +40,22 @@ last_modified_at: 2022-08-26
 원래는 choiiis님의 github를 fork해서 사용중이었는데<br>
 갑자기 사용이 안되는것이더라ㅜㅜ 왜 안되는것이니이.. 멘붕😱
 
+
+<br>
+<br>
+
+---
+
 <br>
 <br>
 
 
-### 깃허브 블로그 한번 만들어봐!
+### 테마 적용하기
 
-- <mark>새로운 Repository를 만든다.</mark>
+- <mark>선택한 테마 링크로 이동</mark>
 
-![new-repository-1](../assets/images/posts_img/github-blog/new-repository-1.JPG)
-
-
-<br>
-<br>
-<br>
-
-
-- <mark>Repository 이름을 설정한다.</mark>
-
-💡 꼭 username.github.io 이런식으로 만들어 준다.
-
-![new-repository-2](../assets/images/posts_img/github-blog/new-repository-2.jpg)
+다른 테마 적용 중 실패를 했고,<br>
+결국 익숙한 choiiis님의 테마로 적용하기로 했다.
 
 
 <br>
@@ -68,13 +63,11 @@ last_modified_at: 2022-08-26
 <br>
 
 
-- <mark>clone한다.</mark>
+- <mark>다운로드</mark>
 
-원하는 경로로 이동한 다음 터미널을 열어 클론한다.
+원하는 테마에서 
 
-git clone https://... 복사한 주소
-
-![new-repository-3](../assets/images/posts_img/github-blog/new-repository-3.jpg)
+![zip](../assets/images/posts_img/github-blog/zip.jpg)
 
 
 <br>
@@ -82,13 +75,12 @@ git clone https://... 복사한 주소
 <br>
 
 
-- <mark>clone한 폴더에 추가로 파일 생성한다.</mark>
+- <mark>다운받은 폴더 열기</mark>
 
-index.html 파일 생성 (안에 내용은 상관✖️)
+다운받은 폴더를 열고<br>
+파일을 전체 복사한다.
 
-터미널에 해당 명령어 입력한다.
-
-echo "Hello World" > index.html
+![copy](../assets/images/posts_img/github-blog/copy.JPG)
 
 
 <br>
@@ -96,15 +88,33 @@ echo "Hello World" > index.html
 <br>
 
 
-- <mark>Push</mark>
+- <mark>나의 github.io 폴더에 붙여넣기</mark>
 
-해당 폴더 모두 Push
+모든파일 '대치하기' 붙여넣기한다.
 
-터미널에 해당 명령어를 입력한다.
 
-git add <br>
-git commit -m "lnitial commit" <br>
-git push -u origin main
+<br>
+<br>
+<br>
+
+
+- <mark>bundle install</mark>
+
+터미널 github.io 폴더 경로에서 bundle install 을 입력한다.
+
+
+<br>
+<br>
+<br>
+
+
+- <mark>bundle exec jekyll serve</mark>
+
+bundle exec jekyll serve<br>
+
+해당 명령어도 입력한다.
+
+![bundle-1](../assets/images/posts_img/github-blog/bundle-2.jpg)
 
 
 <br>
