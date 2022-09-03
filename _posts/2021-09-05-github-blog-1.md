@@ -29,13 +29,14 @@ last_modified_at: 2022-08-31
 
 ### 깃허브 블로그 한번 만들어봐!
 
-1. 새로운 Repository를 만든다.
+1. <mark>새로운 Repository를 만든다.</mark>
 
 ![1](../assets/images/img/1.JPG)
 
-2. Repository 이름을 설정한다.
 
-:heavy_check_mark: 꼭 username.github.io 이런식으로 만들어 준다.
+2. <mark>Repository 이름을 설정한다.</mark>
+
+💡 꼭 username.github.io 이런식으로 만들어 준다.
 
 
 ---
