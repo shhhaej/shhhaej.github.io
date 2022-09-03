@@ -157,6 +157,7 @@ http://127.0.0.1:4000 를 주소창에 입력한다.
 <br>
 
 - <mark>_congif.yml 파일 변경</mark>
+
 minimal_mistakes_skin : "default" 블로그의 색 <br>
 locale : "ko-KR" 블로그의 주요 언어 (한국어로 설정) <br>
 title : 사이트 탭 이름 <br>
