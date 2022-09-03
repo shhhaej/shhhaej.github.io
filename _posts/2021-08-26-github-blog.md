@@ -142,6 +142,17 @@ http://127.0.0.1:4000 를 주소창에 입력한다.
 
 ![yml](../assets/images/posts_img/github-blog/yml.jpg)
 
+minimal_mistakes_skin : "default" 블로그의 색
+locale : "ko-KR" 블로그의 주요 언어 (한국어로 설정)
+title : 사이트 탭 이름
+subtitle : 화면  title 하단에 있는 소제목
+name : 화면 하단의 영역의 이름
+description : 설명란
+url : "https://XXX.github.io" 본인 블로그의 url
+baseurl : 오류 발생 시 연결되는 url
+repository : Github Repo url
+masthead_title : 화면 title
+
 
 <br>
 <br>
@@ -149,6 +160,8 @@ http://127.0.0.1:4000 를 주소창에 입력한다.
 
 
 ### 세팅된 설정 변경
+
+- <mark>README.md 파일 변경</mark>
 
 저는 choiiis님 README.md 파일에 안내된 내용대로 설정을 변경한다.
 
