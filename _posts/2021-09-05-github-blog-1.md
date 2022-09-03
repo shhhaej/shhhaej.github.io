@@ -120,7 +120,7 @@ username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
 <br>
 
 
-## Jekyll
+### Jekyll
 
 - <mark>github.io 폴더에 Jekyll을 설치</mark>
 
