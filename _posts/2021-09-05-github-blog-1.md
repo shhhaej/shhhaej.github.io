@@ -166,7 +166,7 @@ Conflict: C:/GitHub/shhhaej.github.io exists and is not empty.<br>
 
 - <mark>bundle install</mark>
 
-bundle install 
+✔️ bundle install 
 
 위 명령어를 입력한다.
 
