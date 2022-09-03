@@ -117,7 +117,12 @@ bundle exec jekyll serve<br>
 
 http://127.0.0.1:4000 를 주소창에 입력한다.
 
-![bundle-1](../assets/images/posts_img/github-blog/bundle-2.jpg)
+![bundle-2](../assets/images/posts_img/github-blog/bundle-2.jpg)
+
+<br>
+
+그러면 원하는 테마를 확인할 수 있다 🌝
+![shhhaej](../assets/images/posts_img/github-blog/shhhaej.JPG)
 
 
 <br>
