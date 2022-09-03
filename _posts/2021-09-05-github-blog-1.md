@@ -144,7 +144,7 @@ jekyll new ./ <br>
 
 <span style="color:red">
 Conflict: C:/GitHub/shhhaej.github.io exists and is not empty.<br>
-          Ensure C:/GitHub/shhhaej.github.io is empty or else try again with '--force' to proceed and overwrite any files.
+          Ensure C:/GitHub/shhhaej.github.io is empty or else try again with '- -force' to proceed and overwrite any files.
 </span>
 
 오류가 발생되었...🤦
