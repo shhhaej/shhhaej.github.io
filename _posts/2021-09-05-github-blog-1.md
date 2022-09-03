@@ -36,6 +36,7 @@ last_modified_at: 2022-08-31
 
 
 <br>
+<br>
 
 
 - <mark>Repository 이름을 설정한다.</mark>
@@ -45,6 +46,7 @@ last_modified_at: 2022-08-31
 ![new-repository-2](../assets/images/posts_img/github-blog/new-repository-2.jpg)
 
 
+<br>
 <br>
 
 
@@ -58,6 +60,7 @@ git clone https://... 복사한 주소
 
 
 <br>
+<br>
 
 
 - <mark>clone한 폴더에 추가로 파일 생성한다.</mark>
@@ -69,6 +72,7 @@ index.html 파일 생성 (안에 내용은 상관✖️)
 echo "Hello World" > index.html
 
 
+<br>
 <br>
 
 
@@ -84,6 +88,7 @@ git push -u origin main
 
 
 <br>
+<br>
 
 
 - <mark>GitHub repository 확인</mark>
@@ -97,6 +102,10 @@ username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
 짜잔
 
 ⭐Github 블로그 완성⭐
+
+
+<br>
+<br>
 
 ---
 
