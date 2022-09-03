@@ -199,7 +199,7 @@ bundle exec jekyll serve 를 입력
 ![bundle](../assets/images/posts_img/github-blog/bundle-1.JPG)
 ![bundle](../assets/images/posts_img/github-blog/bundle-2.jpg)
 
-브라우저 주소창에 'http://127.0.0.1:4000/ 입력하면..!
+브라우저 주소창에 'http://127.0.0.1:4000' 입력하면..!
 
 <br>
 
@@ -215,6 +215,13 @@ bundle exec jekyll serve 를 입력
 해당 내용이 떴을 경우에는
 ![conflict](../assets/images/posts_img/github-blog/conflict.JPG)
 
+이건 오류는 아니고 중복된 파일로 주의하란 문구란다.
+
+404.html<br>
+about.markdown<br>
+index.markdown<br>
+
+파일을 삭제하면 된다.
 
 
 <br>
