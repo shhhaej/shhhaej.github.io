@@ -192,7 +192,34 @@ Jekyll 4.2.2  Please append '--trace' to be 'serve' command for any additional i
 bundle add webrick 를 입력하면 오류 해결✨
 
 
+그럼 다시 
 
+bundle exec jekyll serve 를 입력하면...!
+
+![bundle](../assets/images/posts_img/github-blog/bundle-1.JPG)
+
+<br>
+
+요로코롬 잘 나오면 성공😆🙌
+
+![jekyll](../assets/images/posts_img/github-blog/jekyll.JPG)
+
+
+<br>
+<br>
+
+혹시 bundle exec jekyll serve 를 입력 시,
+해당 내용이 떴을 경우에는
+![conflict](../assets/images/posts_img/github-blog/conflict.JPG)
+
+
+
+<br>
+<br>
+<br>
+
+
+- <mark></mark>
 ---
 
 **두 가지 플랫폼을 비교해보자면 이렇다.**
