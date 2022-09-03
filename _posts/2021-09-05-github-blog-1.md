@@ -33,6 +33,7 @@ last_modified_at: 2022-08-31
 ![new-repository-1](../assets/images/posts_img/github-blog/new-repository-1.JPG)
 
 2. <mark>Repository 이름을 설정한다.</mark>
+
 💡 꼭 username.github.io 이런식으로 만들어 준다.
 ![new-repository-2](../assets/images/posts_img/github-blog/new-repository-2.jpg)
 
