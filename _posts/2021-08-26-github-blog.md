@@ -1,6 +1,6 @@
 ---
-title: "[GitHub Blog] 고민 끝에 GitHub 블로그 시작"
-excerpt: "다시 시작하는 블로그 :)"
+title: "[GitHub Blog] Jekyll 테마 적용"
+excerpt: "Github 블로그 테마 적용"
 
 categories:
   - GitHub Blog
