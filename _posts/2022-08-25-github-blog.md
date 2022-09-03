@@ -15,9 +15,6 @@ toc_sticky: true
 date: 2022-08-25
 last_modified_at: 2022-08-25
 
-# sitemap :
-#   changefreq : daily
-#   priority : 1.0
 ---
 
 ## 다시 시작하는 블로그

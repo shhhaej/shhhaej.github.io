@@ -15,9 +15,6 @@ toc_sticky: true
 date: 2022-08-26
 last_modified_at: 2022-08-26
 
-# sitemap :
-#   changefreq : daily
-#   priority : 1.0
 ---
 
 ## 테마 선택
@@ -162,6 +159,7 @@ url : "https://XXX.github.io" 본인 블로그의 url <br>
 baseurl : 오류 발생 시 연결되는 url <br>
 repository : Github Repo url <br>
 masthead_title : 화면 title <br>
+
 
 <br>
 
