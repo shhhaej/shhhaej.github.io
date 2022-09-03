@@ -164,7 +164,35 @@ jekyll new ./ --force 를 당당하게 입력한다.
 <br>
 
 
-- 
+- <mark>bundle install</mark>
+
+bundle install 
+
+위 명령어를 입력한다.
+
+
+<br>
+<br>
+<br>
+
+
+- <mark>Jekyll을 로컬서버로 연결하기</mark>
+
+bundle exec jekyll serve  를 입력하면 로컬서버가 띄워진다.
+
+단...
+
+또 두둥ㅠㅠㅠ
+
+![trace](../assets/images/posts_img/github-blog/trace.JPG)
+<span style="color:red">    
+Jekyll 4.2.2  Please append '--trace' to be 'serve' command for any additional information or backtrace.
+<span>
+
+bundle add webrick 를 입력하면 오류 해결
+
+
+
 ---
 
 **두 가지 플랫폼을 비교해보자면 이렇다.**
