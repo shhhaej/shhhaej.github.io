@@ -22,11 +22,14 @@ last_modified_at: 2022-08-26
 
 ## 테마 선택
 
-테마를 볼 수 있는 사이트가 있다
-하지만 난 이미 한 테마 시도 후에 
+테마를 볼 수 있는 사이트가 있다.<br>
+하지만 난 이미 한 테마 시도 후에<br>
 오류 탈탈 털려서 전체 리셋 후에 다시 시도 했다 🥴
 
-* (http://jekyll-themes.com)
+* <https://jekyll-themes.com/>
+* <https://jekyllthemes.io/>
+* <http://jekyllthemes.org/>
+* <https://jamstackthemes.dev/ssg/jekyll/>
 
 <br>
 <br>
