@@ -186,7 +186,7 @@ bundle exec jekyll serve  를 입력하면 로컬서버가 띄워진다.
 
 ![trace](../assets/images/posts_img/github-blog/trace.JPG)
 <span style="color:red">    
-Jekyll 4.2.2  Please append '--trace' to be 'serve' command for any additional information or backtrace.
+Jekyll 4.2.2  Please append '- -trace' to be 'serve' command for any additional information or backtrace.
 <span>
 
 bundle add webrick 를 입력하면 오류 해결✨
