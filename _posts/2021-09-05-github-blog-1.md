@@ -84,6 +84,18 @@ git commit -m "lnitial commit" <br>
 git push -u origin main
 
 
+- <mark>GitHub repository 확인</mark>
+
+username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
+
+브라우저 주소창에 username.github.io 입력하면 
+
+![new-repository-4](../assets/images/posts_img/github-blog/new-repository-4.jpg)
+
+짜잔
+
+⭐Github 블로그 완성⭐
+
 ---
 
 **두 가지 플랫폼을 비교해보자면 이렇다.**
