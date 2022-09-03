@@ -182,9 +182,13 @@ _posts 폴더에 원하는 내용을 markdown 형식으로 작성한다.
 
 설정 변경이 모두 끝나면 Push하면 된다.<br>
 
+<br>
+
 git add . <br>
 git commit -m "커밋 메시지" <br>
 git push
+
+<br>
 
 Push 후에<br>
 주소창에 username.github.io 를 입력하여 확인하면<br> 
