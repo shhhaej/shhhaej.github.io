@@ -25,11 +25,18 @@ last_modified_at: 2022-08-31
 블로그를 시작전부터 겁이 났었다. GitHub 블로그를 과연 잘 시작할 수 있을지, 시간이 많이 소요되면 어쩌나하고..
 그래도 시작이 반이라 생각하고 바로 시작하였다.
 
+
+
 ### 깃허브 블로그 한번 만들어봐!
 
 1. 새로운 Repository를 만든다.
+
 ![1](../assets/images/img/1.JPG)
 
+
+2. Repository 이름을 설정한다.
+
+:bulb: 꼭 username.github.io 이런식으로 만들어 준다.
 
 
 ---
