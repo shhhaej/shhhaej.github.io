@@ -22,8 +22,8 @@ last_modified_at: 2022-08-31
 
 ## 다시 시작하는 블로그
 
-블로그를 시작전부터 겁이 났었다. GitHub 블로그를 과연 잘 시작할 수 있을지, 시간이 많이 소요되면 어쩌나하고..
-그래도 시작이 반이라 생각하고 바로 시작하였다.
+GitHub 블로그를 과연 잘 시작할 수 있을지, 시간이 많이 소요되면 어쩌나하고..
+블로그를 시작전부터 겁이 났었다. 그래도 시작이 반이지! 하고 바로 시작했다.💪!
 
 
 
@@ -36,9 +36,7 @@ last_modified_at: 2022-08-31
 
 💡 꼭 username.github.io 이런식으로 만들어 준다.
 ![new-repository-2](../assets/images/posts_img/github-blog/new-repository-2.jpg)
-
 3. <mark>clone한다.</mark>
-
 원하는 경로로 이동한 다음 터미널을 열어 클론한다.
 git clone https://... 복사한 주소
 
