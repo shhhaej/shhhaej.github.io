@@ -124,7 +124,7 @@ username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
 
 - <mark>github.io 폴더에 Jekyll을 설치</mark>
 
-✔️ 터미널에 gem install jekyll bundler 명령어를 입력한다.
+터미널에 gem install jekyll bundler 명령어를 입력한다.
 
 
 <br>
@@ -134,7 +134,7 @@ username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
 
 - <mark>Jekyll 생성</mark>
 
-✔️ jekyll new ./ <br>
+jekyll new ./ <br>
 
 명령어를 입력한다.
 
@@ -154,7 +154,7 @@ Conflict: C:/GitHub/shhhaej.github.io exists and is not empty.<br>
 
 당황하지 말고 
 
-✔️ jekyll new ./ --force 를 당당하게 입력한다.
+jekyll new ./ --force 를 당당하게 입력한다.
 
 ![force-solution](../assets/images/posts_img/github-blog/force-solution.JPG)
 
@@ -166,7 +166,7 @@ Conflict: C:/GitHub/shhhaej.github.io exists and is not empty.<br>
 
 - <mark>bundle install</mark>
 
-✔️ bundle install 
+bundle install 
 
 위 명령어를 입력한다.
 
@@ -178,7 +178,7 @@ Conflict: C:/GitHub/shhhaej.github.io exists and is not empty.<br>
 
 - <mark>Jekyll을 로컬서버로 연결하기</mark>
 
-✔️ bundle exec jekyll serve  를 입력하면 로컬서버가 띄워진다.
+bundle exec jekyll serve  를 입력하면 로컬서버가 띄워진다.
 
 단...
 
@@ -228,10 +228,8 @@ index.markdown<br>
 
 <br>
 <br>
-<br>
 
 
-- <mark></mark>
 ---
 
 **두 가지 플랫폼을 비교해보자면 이렇다.**
