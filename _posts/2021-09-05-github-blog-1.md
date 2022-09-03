@@ -22,10 +22,12 @@ last_modified_at: 2022-08-31
 
 ## 다시 시작하는 블로그
 
-GitHub 블로그를 과연 잘 시작할 수 있을지, 시간이 많이 소요되면 어쩌나하고..
-블로그를 시작전부터 겁이 났었다. 그래도 시작이 반이지! 하고 바로 시작했다.💪!
+만드는데까지 시간이 많이 소요될까 고민됐지만 그래도 시작이 반이라고 생각하며 바로 시작했다.
+하지만 역시나 쉽지않았다.😂 저의 오류들이 도움이 되기를 바라며💪!
 
-
+<br>
+<br>
+<br>
 
 ### 깃허브 블로그 한번 만들어봐!
 
@@ -34,12 +36,17 @@ GitHub 블로그를 과연 잘 시작할 수 있을지, 시간이 많이 소요�
 ![new-repository-1](../assets/images/posts_img/github-blog/new-repository-1.JPG)
 
 
+<br>
+
 
 - <mark>Repository 이름을 설정한다.</mark>
 
 💡 꼭 username.github.io 이런식으로 만들어 준다.
 
 ![new-repository-2](../assets/images/posts_img/github-blog/new-repository-2.jpg)
+
+
+<br>
 
 
 - <mark>clone한다.</mark>
@@ -51,6 +58,7 @@ git clone https://... 복사한 주소
 ![new-repository-3](../assets/images/posts_img/github-blog/new-repository-3.jpg)
 
 
+<br>
 
 - 
 ---
