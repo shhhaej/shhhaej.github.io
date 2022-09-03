@@ -113,9 +113,10 @@ username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
 
 <br>
 <br>
-<br>
 
 ---
+
+<br>
 
 
 # Jekyll
@@ -132,7 +133,7 @@ username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
 
 - <mark>Jekyll 생성</mark>
 
-jekyll new ./ 
+jekyll new ./ <br>
 
 명령어를 입력한다.
 
@@ -141,7 +142,7 @@ jekyll new ./
 ![force](../assets/images/posts_img/github-blog/force.JPG)
 
 <span style="color:red">
-Conflict: C:/GitHub/shhhaej.github.io exists and is not empty.
+Conflict: C:/GitHub/shhhaej.github.io exists and is not empty.<br>
           Ensure C:/GitHub/shhhaej.github.io is empty or else try again with '--force' to proceed and overwrite any files.
 </span>
 
