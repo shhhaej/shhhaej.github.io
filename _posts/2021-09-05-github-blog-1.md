@@ -154,7 +154,7 @@ Conflict: C:/GitHub/shhhaej.github.io exists and is not empty.<br>
 
 당황하지 말고 
 
-jekyll new ./ --force 를 당당하게 입력한다.
+jekyll new ./ - -force 를 당당하게 입력한다.
 
 ![force-solution](../assets/images/posts_img/github-blog/force-solution.JPG)
 
