@@ -115,6 +115,8 @@ username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
 <br>
 <br>
 
+---
+
 
 # Jekyll
 
@@ -127,8 +129,6 @@ username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
 <br>
 <br>
 
----
-
 
 - <mark>Jekyll 생성</mark>
 
@@ -139,6 +139,11 @@ jekyll new ./
 이때 뚜둥!
 
 ![force](../assets/images/posts_img/github-blog/force.JPG)
+
+<span style="color:red">
+Conflict: C:/GitHub/shhhaej.github.io exists and is not empty.
+          Ensure C:/GitHub/shhhaej.github.io is empty or else try again with '--force' to proceed and overwrite any files.
+</span>
 
 오류가 발생되었...🤦
 
