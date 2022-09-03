@@ -153,6 +153,11 @@ baseurl : 오류 발생 시 연결되는 url <br>
 repository : Github Repo url <br>
 masthead_title : 화면 title <br>
 
+author :
+  name : 이름 영역
+  avatar : "image/xxx.jpg"프로필 사진 경로
+  location : 지역
+
 
 <br>
 <br>
