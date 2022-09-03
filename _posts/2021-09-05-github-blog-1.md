@@ -34,7 +34,8 @@ last_modified_at: 2022-08-31
 ![1](../assets/images/img/1.JPG)
 
 
-22. <mark>Repository 이름을 설정한다.</mark>
+
+2. <mark>Repository 이름을 설정한다.</mark>
 
   💡 꼭 username.github.io 이런식으로 만들어 준다.
 
