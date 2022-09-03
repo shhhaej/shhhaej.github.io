@@ -142,6 +142,24 @@ http://127.0.0.1:4000 를 주소창에 입력한다.
 
 ![yml](../assets/images/posts_img/github-blog/yml.jpg)
 
+
+<br>
+<br>
+<br>
+
+
+### 세팅된 설정 변경
+
+- <mark>_congif.yml 파일 변경</mark>
+
+저는 choiiis님 README.md 파일에 안내된 내용대로 설정을 변경한다.
+
+변경 후에 브라우저 리로드하여 확인하면 끝!
+
+혹시 변경내용이 확인 안된다면..?<br>
+
+터미널에 bundle exec jekyll serve 다시 입력하면 끝!
+---
 minimal_mistakes_skin : "default" 블로그의 색 <br>
 locale : "ko-KR" 블로그의 주요 언어 (한국어로 설정) <br>
 title : 사이트 탭 이름 <br>
@@ -157,25 +175,7 @@ author :
   name : 이름 영역
   avatar : "image/xxx.jpg"프로필 사진 경로
   location : 지역
-
-
-<br>
-<br>
-<br>
-
-
-### 세팅된 설정 변경
-
-- <mark>README.md 파일 변경</mark>
-
-저는 choiiis님 README.md 파일에 안내된 내용대로 설정을 변경한다.
-
-변경 후에 브라우저 리로드하여 확인하면 끝!
-
-혹시 변경내용이 확인 안된다면..?<br>
-
-터미널에 bundle exec jekyll serve 다시 입력하면 끝!
-
+---
 
 <br>
 <br>
