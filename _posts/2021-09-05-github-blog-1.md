@@ -37,6 +37,7 @@ last_modified_at: 2022-08-31
 
 <br>
 <br>
+<br>
 
 
 - <mark>Repository 이름을 설정한다.</mark>
@@ -46,6 +47,7 @@ last_modified_at: 2022-08-31
 ![new-repository-2](../assets/images/posts_img/github-blog/new-repository-2.jpg)
 
 
+<br>
 <br>
 <br>
 
@@ -61,6 +63,7 @@ git clone https://... 복사한 주소
 
 <br>
 <br>
+<br>
 
 
 - <mark>clone한 폴더에 추가로 파일 생성한다.</mark>
@@ -72,6 +75,7 @@ index.html 파일 생성 (안에 내용은 상관✖️)
 echo "Hello World" > index.html
 
 
+<br>
 <br>
 <br>
 
@@ -89,6 +93,7 @@ git push -u origin main
 
 <br>
 <br>
+<br>
 
 
 - <mark>GitHub repository 확인</mark>
@@ -103,9 +108,33 @@ username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
 
 ⭐Github 블로그 완성⭐
 
+다 확인되었다면 index.html 파일 제거한다.
+
 
 <br>
 <br>
+<br>
+
+
+# Jekyll
+
+- github.io 폴더에 Jekyll을 설치
+
+터미널에 gem install jekyll bundler 명령어를 입력한다.
+
+
+<br>
+<br>
+<br>
+
+
+- Jekyll 생성
+
+jekyll new ./ 
+
+명령어를 입력한다.
+
+
 
 ---
 
