@@ -163,11 +163,6 @@ baseurl : 오류 발생 시 연결되는 url <br>
 repository : Github Repo url <br>
 masthead_title : 화면 title <br>
 
-author : <br>
-> name : 이름 영역 <br>
-> avatar : "image/xxx.jpg"프로필 사진 경로 <br>
-> location : 지역 <br>
-
 <br>
 
 - <mark>README.md 파일 변경</mark>
