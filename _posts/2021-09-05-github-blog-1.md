@@ -124,7 +124,7 @@ username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
 
 - <mark>github.io 폴더에 Jekyll을 설치</mark>
 
-터미널에 gem install jekyll bundler 명령어를 입력한다.
+✔️ 터미널에 gem install jekyll bundler 명령어를 입력한다.
 
 
 <br>
@@ -134,7 +134,7 @@ username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
 
 - <mark>Jekyll 생성</mark>
 
-jekyll new ./ <br>
+✔️ jekyll new ./ <br>
 
 명령어를 입력한다.
 
