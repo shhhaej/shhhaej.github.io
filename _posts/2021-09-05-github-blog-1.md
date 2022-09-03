@@ -65,6 +65,8 @@ git clone https://... 복사한 주소
 
 index.html 파일 생성 (안에 내용은 상관✖️)
 
+터미널에 해당 명령어 입력한다.
+
 echo "Hello World" > index.html
 
 
