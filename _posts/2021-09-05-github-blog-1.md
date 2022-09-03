@@ -217,6 +217,8 @@ bundle exec jekyll serve 를 입력
 
 이건 오류는 아니고 중복된 파일로 주의하란 문구란다.
 
+그래도 신경쓰이니까<br>
+
 404.html<br>
 about.markdown<br>
 index.markdown<br>
