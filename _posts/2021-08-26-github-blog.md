@@ -65,7 +65,7 @@ last_modified_at: 2022-08-26
 
 - <mark>다운로드</mark>
 
-원하는 테마에서 
+원하는 테마에서 'Download ZIP' 를 클릭하여 다운로드 한다.
 
 ![zip](../assets/images/posts_img/github-blog/zip.jpg)
 
@@ -77,8 +77,7 @@ last_modified_at: 2022-08-26
 
 - <mark>다운받은 폴더 열기</mark>
 
-다운받은 폴더를 열고<br>
-파일을 전체 복사한다.
+다운받은 폴더를 열고 파일을 전체 복사한다.
 
 ![copy](../assets/images/posts_img/github-blog/copy.JPG)
 
@@ -100,7 +99,9 @@ last_modified_at: 2022-08-26
 
 - <mark>bundle install</mark>
 
-터미널 github.io 폴더 경로에서 bundle install 을 입력한다.
+터미널 github.io 폴더 경로에서<br>
+
+bundle install 을 입력한다.
 
 
 <br>
