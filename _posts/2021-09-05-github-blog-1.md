@@ -79,8 +79,8 @@ echo "Hello World" > index.html
 
 터미널에 해당 명령어를 입력한다.
 
-git add
-git commit -m "lnitial commit"
+git add <br>
+git commit -m "lnitial commit" <br>
 git push -u origin main
 
 
