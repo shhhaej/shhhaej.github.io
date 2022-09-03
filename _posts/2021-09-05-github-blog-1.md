@@ -194,13 +194,16 @@ bundle add webrick 를 입력하면 오류 해결✨
 
 그럼 다시 
 
-bundle exec jekyll serve 를 입력하면...!
+bundle exec jekyll serve 를 입력
 
 ![bundle](../assets/images/posts_img/github-blog/bundle-1.JPG)
+![bundle](../assets/images/posts_img/github-blog/bundle-2.JPG)
+
+브라우저 주소창에 'http://127.0.0.1:4000/ 입력하면..!
 
 <br>
 
-요로코롬 잘 나오면 성공😆🙌
+요로코롬 잘 나오면 성공 오예오예😆🙌
 
 ![jekyll](../assets/images/posts_img/github-blog/jekyll.JPG)
 
