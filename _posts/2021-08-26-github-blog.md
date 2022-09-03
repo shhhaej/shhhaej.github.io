@@ -164,9 +164,9 @@ repository : Github Repo url <br>
 masthead_title : 화면 title <br>
 
 author : <br>
-  name : 이름 영역 <br>
-  avatar : "image/xxx.jpg"프로필 사진 경로 <br>
-  location : 지역 <br>
+> name : 이름 영역 <br>
+> avatar : "image/xxx.jpg"프로필 사진 경로 <br>
+> location : 지역 <br>
 
 <br>
 
@@ -179,6 +179,8 @@ author : <br>
 변경 후에 브라우저 리로드하여 확인하면 끝!
 
 혹시 변경내용이 확인 안된다면..?
+
+bundle exec jekyll serve 를 다시 입력한다.
 
 
 <br>
