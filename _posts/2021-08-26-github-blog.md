@@ -121,28 +121,8 @@ http://127.0.0.1:4000 를 주소창에 입력한다.
 
 <br>
 
-그러면 원하는 테마를 확인할 수 있다 🌝
+그러면 원하는 테마를 확인할 수 있다 🙂
 ![shhhaej](../assets/images/posts_img/github-blog/shhhaej.JPG)
-
-
-<br>
-<br>
-<br>
-
-
-- <mark>GitHub repository 확인</mark>
-
-username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
-
-브라우저 주소창에 username.github.io 입력하면 
-
-![new-repository-4](../assets/images/posts_img/github-blog/new-repository-4.jpg)
-
-짜잔
-
-⭐Github 블로그 완성⭐
-
-다 확인되었다면 index.html 파일 제거한다.
 
 
 <br>
@@ -154,11 +134,13 @@ username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
 <br>
 
 
-### Jekyll
+## 블로그 설정
 
-- <mark>github.io 폴더에 Jekyll을 설치</mark>
+- <mark>_congif.yml 파일 열기</mark>
 
-터미널에 gem install jekyll bundler 명령어를 입력한다.
+본인의 github.io 폴더에 있는 _congif.yml 파일을 연다.
+
+![yml](../assets/images/posts_img/github-blog/yml.jpg)
 
 
 <br>
@@ -166,22 +148,16 @@ username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
 <br>
 
 
-- <mark>Jekyll 생성</mark>
+- <mark>세팅된 설정 변경</mark>
 
-jekyll new ./ <br>
+저는 choiiis님 README.md 파일에 안내된 내용대로 설정을 변경한다.
 
-명령어를 입력한다.
+변경 후에 브라우저 리로드하여 확인하면 끝!
 
-이때 뚜둥!
+혹시 변경내용이 확인 안된다면..?<br>
 
-![force](../assets/images/posts_img/github-blog/force.JPG)
+터미널에 bundle exec jekyll serve 다시 입력하면 끝!
 
-<span style="color:red">
-Conflict: C:/GitHub/shhhaej.github.io exists and is not empty.<br>
-          Ensure C:/GitHub/shhhaej.github.io is empty or else try again with '-  -force' to proceed and overwrite any files.
-</span>
-
-오류가 발생되었...🤦
 
 <br>
 <br>
