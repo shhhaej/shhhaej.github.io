@@ -33,10 +33,10 @@ last_modified_at: 2022-08-26
 
 <br>
 
-* <www.jekyll-themes.com>
-* <www.jekyllthemes.io>
-* <www.jekyllthemes.org>
-* <www.jamstackthemes.dev>
+* [jekyll-themes.com]<https://jekyll-themes.com/>
+* [jekyllthemes.io]<https://jekyllthemes.io/>
+* [jekyllthemes.org]<http://jekyllthemes.org/>
+* [jamstackthemes.dev]<https://jamstackthemes.dev/ssg/jekyll/>
 
 <br>
 <br>
