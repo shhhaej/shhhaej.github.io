@@ -30,19 +30,20 @@ last_modified_at: 2022-08-31
 ### 깃허브 블로그 한번 만들어봐!
 
 1. <mark>새로운 Repository를 만든다.</mark>
+2. <mark>Repository 이름을 설정한다.</mark>
+3. <mark>clone한다.</mark>
 
 ![new-repository-1](../assets/images/posts_img/github-blog/new-repository-1.JPG)
 
 
 
-
-
-
+1. <mark>새로운 Repository를 만든다.</mark>
 2. <mark>Repository 이름을 설정한다.</mark>
 
-  💡 꼭 username.github.io 이런식으로 만들어 준다.
+💡 꼭 username.github.io 이런식으로 만들어 준다.
 
-  ![new-repository-2](../assets/images/posts_img/github-blog/new-repository-2.jpg)
+![new-repository-2](../assets/images/posts_img/github-blog/new-repository-2.jpg)
+
 
 
 
@@ -54,6 +55,10 @@ git clone https://... 복사한 주소
 
 ![new-repository-3](../assets/images/posts_img/github-blog/new-repository-3.jpg)
 
+
+
+
+4. 
 ---
 
 **두 가지 플랫폼을 비교해보자면 이렇다.**
