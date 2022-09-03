@@ -33,10 +33,9 @@ last_modified_at: 2022-08-31
 
 ![1](../assets/images/img/1.JPG)
 
-
 2. Repository 이름을 설정한다.
 
-:bulb: 꼭 username.github.io 이런식으로 만들어 준다.
+:heavy_check_mark: 꼭 username.github.io 이런식으로 만들어 준다.
 
 
 ---
