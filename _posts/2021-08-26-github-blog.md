@@ -27,12 +27,11 @@ last_modified_at: 2022-08-26
 오류 탈탈 털려서 전체 리셋 후에 다시 시도 했다 🥴
 
 
-<span style="color:gray"> 
-* [jekyll-themes.com](https://jekyll-themes.com/) 
-* [jekyllthemes.io](https://jekyllthemes.io/)
-* [jekyllthemes.org](http://jekyllthemes.org/)
-* [jamstackthemes.dev](https://jamstackthemes.dev/ssg/jekyll/)
-</span>
+<span style="color:gray">* [jekyll-themes.com](https://jekyll-themes.com/)</span>
+<span style="color:gray">* [jekyllthemes.io](https://jekyllthemes.io/)</span>
+<span style="color:gray">* [jekyllthemes.org](http://jekyllthemes.org/)</span>
+<span style="color:gray">* [jamstackthemes.dev](https://jamstackthemes.dev/ssg/jekyll/)</span>
+
 
 <br>
 <br>
