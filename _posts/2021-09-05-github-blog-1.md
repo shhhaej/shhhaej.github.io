@@ -134,8 +134,28 @@ jekyll new ./
 
 명령어를 입력한다.
 
+이때 뚜둥!
+
+![force](../assets/images/posts_img/github-blog/force.JPG)
+
+오류가 발생되었...🤦
+
+<br>
+<br>
+
+당황하지 말고 
+
+jekyll new ./ --force 를 당당하게 입력한다.
+
+![force-solution](../assets/images/posts_img/github-blog/force-solution.JPG)
 
 
+<br>
+<br>
+<br>
+
+
+- 
 ---
 
 **두 가지 플랫폼을 비교해보자면 이렇다.**
