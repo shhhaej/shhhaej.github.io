@@ -27,7 +27,7 @@ last_modified_at: 2022-08-26
 오류 탈탈 털려서 전체 리셋 후에 다시 시도 했다 🥴
 
 
-<span style="color:red, text-decoration-line: none"> 
+<span style="color:gray"> 
 * [jekyll-themes.com](https://jekyll-themes.com/) 
 * [jekyllthemes.io](https://jekyllthemes.io/)
 * [jekyllthemes.org](http://jekyllthemes.org/)
