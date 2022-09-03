@@ -101,7 +101,7 @@ last_modified_at: 2022-08-26
 
 터미널 github.io 폴더 경로에서<br>
 
-bundle install 을 입력한다.
+bundle install 를 입력한다.
 
 
 <br>
@@ -113,7 +113,9 @@ bundle install 을 입력한다.
 
 bundle exec jekyll serve<br>
 
-해당 명령어도 입력한다.
+해당 명령어를 입력하고, 
+
+http://127.0.0.1:4000 를 주소창에 입력한다.
 
 ![bundle-1](../assets/images/posts_img/github-blog/bundle-2.jpg)
 
