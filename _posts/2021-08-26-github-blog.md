@@ -26,14 +26,8 @@ last_modified_at: 2022-08-26
 하지만 난 이미 한 테마 시도 후에<br>
 오류 탈탈 털려서 전체 리셋 후에 다시 시도 했다 🥴
 
-* <https://jekyll-themes.com/>
-* <https://jekyllthemes.io/>
-* <http://jekyllthemes.org/>
-* <https://jamstackthemes.dev/ssg/jekyll/>
 
-<br>
-
-* [jekyll-themes.com](https://jekyll-themes.com/)
+<span style="color:gray"> * [jekyll-themes.com](https://jekyll-themes.com/) </span>
 * [jekyllthemes.io](https://jekyllthemes.io/)
 * [jekyllthemes.org](http://jekyllthemes.org/)
 * [jamstackthemes.dev](https://jamstackthemes.dev/ssg/jekyll/)
