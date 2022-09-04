@@ -1,5 +1,5 @@
 ---
-title: "[GitHub Blog] Jekyll 테마 적용"
+title: "Jekyll 테마 적용"
 excerpt: "Github 블로그 테마 적용"
 
 categories:
