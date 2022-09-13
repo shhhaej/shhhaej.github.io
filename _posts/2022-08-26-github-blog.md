@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Jekyll 테마 적용"
 excerpt: "Github 블로그 테마 적용"
 
@@ -222,4 +222,4 @@ Push 후에<br>
 
 
 <br>
-<br>
+<br> -->
