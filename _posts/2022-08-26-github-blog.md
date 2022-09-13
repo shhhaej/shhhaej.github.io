@@ -7,7 +7,7 @@ categories:
 tags:
   - [GitHub Blog, Git, 깃허브 블로그]
 
-permalink: /github-blog/
+permalink: /github-blog/github-jekyll/
 
 toc: true
 toc_sticky: true
