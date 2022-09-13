@@ -22,4 +22,4 @@
 <br>
 
 
-ⓒ choiiis'github themo
+<span style="color:gray">Themo Offer : choiiis'github</span>
