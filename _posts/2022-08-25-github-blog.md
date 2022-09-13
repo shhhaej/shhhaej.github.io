@@ -29,7 +29,7 @@ last_modified_at: 2022-08-25
 
 - <mark>새로운 Repository를 만든다.</mark>
 
-![new-repository-1](../assets/images/posts_img/github-blog/new-repository-1.JPG)
+![new-repository-1](../github-blog/new-repository-1.JPG)
 
 
 <br>
