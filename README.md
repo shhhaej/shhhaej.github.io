@@ -22,5 +22,5 @@
 <br>
 
 
-<span style="color:#808080;"> Demo Offer : choiiis'github themo </span>
-<span style="color:gray;"> Demo Offer : choiiis'github themo </span>
+<span style="color:#808080"> Demo Offer : choiiis'github themo </span>
+<span style="color:gray"> Demo Offer : choiiis'github themo </span>
