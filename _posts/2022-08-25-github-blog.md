@@ -139,6 +139,7 @@ jekyll new ./ <br>
 이때 뚜둥!
 
 ![force](../assets/images/posts_img/github-blog/force.JPG)
+![force](../assets/images/posts_img/github-new-repository/force.JPG)
 
 <span style="color:red">
 Conflict: C:/GitHub/shhhaej.github.io exists and is not empty.<br>
