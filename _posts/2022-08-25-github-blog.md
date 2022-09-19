@@ -43,7 +43,7 @@ last_modified_at: 2022-08-25
 
 💡 꼭 username.github.io 이런식으로 만들어 준다.
 
-![new-repository-2](../assets/images/posts_img/github-blog/new-repository-2.jpg)
+![new-repository-2](/assets/images/posts_img/github-new-repository/new-repository-2.jpg)
 
 
 <br>
@@ -57,7 +57,7 @@ last_modified_at: 2022-08-25
 
 git clone https://... 복사한 주소
 
-![new-repository-3](../assets/images/posts_img/github-blog/new-repository-3.jpg)
+![new-repository-3](/assets/images/posts_img/github-new-repository/new-repository-3.jpg)
 
 
 <br>
@@ -101,7 +101,7 @@ username.github.io repository 확인 시 Push한 파일이 확인 잘 된다면
 
 브라우저 주소창에 username.github.io 입력하면 
 
-![new-repository-4](../assets/images/posts_img/github-blog/new-repository-4.jpg)
+![new-repository-4](/assets/images/posts_img/github-new-repository/new-repository-4.jpg)
 
 짜잔
 
@@ -139,8 +139,7 @@ jekyll new ./ <br>
 
 이때 뚜둥!
 
-![force](../assets/images/posts_img/github-blog/force.JPG)
-![force](../assets/images/posts_img/github-new-repository/force.JPG)
+![force](/assets/images/posts_img/github-new-repository/force.JPG)
 
 <span style="color:red">
 Conflict: C:/GitHub/shhhaej.github.io exists and is not empty.<br>
@@ -156,7 +155,7 @@ Conflict: C:/GitHub/shhhaej.github.io exists and is not empty.<br>
 
 jekyll new ./ - -force 를 당당하게 입력한다.
 
-![force-solution](../assets/images/posts_img/github-blog/force-solution.JPG)
+![force-solution](/assets/images/posts_img/github-new-repository/force-solution.JPG)
 
 
 <br>
@@ -184,7 +183,7 @@ bundle exec jekyll serve  를 입력하면 로컬서버가 띄워진다.
 
 또 두둥ㅠㅠㅠ
 
-![trace](../assets/images/posts_img/github-blog/trace.JPG)
+![trace](/assets/images/posts_img/github-new-repository/trace.JPG)
 <span style="color:red">    
 Jekyll 4.2.2  Please append '- -trace' to be 'serve' command for any additional information or backtrace.
 <span>
@@ -197,8 +196,8 @@ bundle add webrick 를 입력하면 오류 해결✨
 
 bundle exec jekyll serve 를 입력
 
-![bundle](../assets/images/posts_img/github-blog/bundle-1.JPG)
-![bundle](../assets/images/posts_img/github-blog/bundle-2.jpg)
+![bundle-1](/assets/images/posts_img/github-new-repository/bundle-1.JPG)
+![bundle-2](/assets/images/posts_img/github-new-repository/bundle-2.jpg)
 
 브라우저 주소창에 'http://127.0.0.1:4000' 입력하면..!
 
@@ -206,7 +205,7 @@ bundle exec jekyll serve 를 입력
 
 요로코롬 잘 나오면 성공 오예오예😆🙌
 
-![jekyll](../assets/images/posts_img/github-blog/jekyll.JPG)
+![jekyll](/assets/images/posts_img/github-new-repository/jekyll.JPG)
 
 
 <br>
@@ -217,7 +216,7 @@ bundle exec jekyll serve 를 입력
 ✔️ 참고로!
 혹시 bundle exec jekyll serve 를 입력 시,
 해당 내용이 떴을 경우에는
-![conflict](../assets/images/posts_img/github-blog/conflict.JPG)
+![conflict](/assets/images/posts_img/github-new-repository/conflict.JPG)
 
 이건 오류는 아니고 중복된 파일로 주의하란 문구란다.
 
