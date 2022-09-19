@@ -64,7 +64,7 @@ last_modified_at: 2022-08-26
 
 원하는 테마에서 'Download ZIP' 를 클릭하여 다운로드 한다.
 
-![zip](../assets/images/posts_img/github-blog/zip.jpg)
+![zip](/assets/images/posts_img//github-jekyll/zip.jpg)
 
 
 <br>
@@ -76,7 +76,7 @@ last_modified_at: 2022-08-26
 
 다운받은 폴더를 열고 파일을 전체 복사한다.
 
-![copy](../assets/images/posts_img/github-blog/copy.JPG)
+![copy](/assets/images/posts_img/github-jekyll/copy.JPG)
 
 
 <br>
@@ -114,12 +114,12 @@ bundle exec jekyll serve<br>
 
 http://127.0.0.1:4000 를 주소창에 입력한다.
 
-![bundle-2](../assets/images/posts_img/github-blog/bundle-2.jpg)
+![bundle-2](/assets/images/posts_img/github-jekyll/bundle-2.jpg)
 
 <br>
 
 그러면 원하는 테마를 확인할 수 있다 🙂
-![shhhaej](../assets/images/posts_img/github-blog/shhhaej.JPG)
+![shhhaej](/assets/images/posts_img/github-jekyll/shhhaej.JPG)
 
 
 <br>
@@ -137,7 +137,7 @@ http://127.0.0.1:4000 를 주소창에 입력한다.
 
 본인의 github.io 폴더에 있는 _congif.yml 파일을 연다.
 
-![yml](../assets/images/posts_img/github-blog/yml.jpg)
+![yml](/assets/images/posts_img/github-jekyll/yml.jpg)
 
 
 <br>
@@ -189,7 +189,7 @@ _posts 폴더에 원하는 내용을 markdown 형식으로 작성한다.
 
 저는 Hello World 를 입력했다 😎
 
-![post](../assets/images/posts_img/github-blog/post.jpg)
+![post](/assets/images/posts_img/github-jekyll/post.jpg)
 
 
 <br>
