@@ -26,6 +26,8 @@ categories:
     url: /categories/git/
   - title: "GitHub Blog"
     url: /categories/github-blog/
+  - title: "Software"
+    url: /categories/software/
   # - title: "C/C++"
   #   url: /categories/c-cpp/
   # - title: "Python"
