@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
  
 date: 2021-10-04
-last_modified_at: 2021-10-04
+last_modified_at: 2021-10-05
 
 ---
 
@@ -280,9 +280,7 @@ public class Car {
 <br>
 
 
-<span style="color:gray">
-참고자료
+<span style="color:gray">참고자료</span>
 
 - https://m.blog.naver.com/heartflow89/220954420688
 - https://gbsb.tistory.com/155
-</span>
