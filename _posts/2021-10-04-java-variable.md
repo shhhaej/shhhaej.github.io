@@ -1,6 +1,6 @@
 ---
 title: "전역변수와 멤버변수는 동일변수?"
-excerpt: "이클립스"
+excerpt: "Java 변수"
 
 categories:
   - Java
@@ -17,7 +17,7 @@ last_modified_at: 2021-10-04
 
 ---
 
-## 결과부터 말하자면 아님
+## 결과부터 말하자면 아니다 🥴
 
 변수의 종류는 그 선언 위치에 따라 크게 멤버변수와 지역변수로 나뉜다.
 
@@ -39,7 +39,10 @@ last_modified_at: 2021-10-04
 
 여기서 '프로그램 어디에서나'라는 말이 애매하게 와닿는다. '어디에서나'라는 것은 '프로젝트 안에 모든 곳에서 접근 가능해야한다'는 것인가? 아니면 '실행하는 하나의 큰 프로그램 단위를 의미한다'는 것인가?
 
+
 <br>
+<br>
+
 
 ![global-variable](/assets/images/posts_img/java-program-structure/global-variable.png)
 
@@ -47,7 +50,10 @@ last_modified_at: 2021-10-04
 
 애초에 자바에는 전역변수를 지원하지 않는다는 것이다. 전역변수의 정의는 사실 C언어의 것이었다.
 
+
 <br>
+<br>
+
 
 ### 왜 JAVA 에서는 전역변수를 지원하지 않을까?
 
@@ -55,7 +61,10 @@ last_modified_at: 2021-10-04
 
 굳이 전역변수의 역할을 수행하고 싶으면 Static이나 Public으로 충분히 구현 가능하다.(단, Public 역시 은닉성을 해침으로 무분별한 사용 지양)
 
+
 <br>
+<br>
+
 
 ### 멤버변수 or 클래스 변수
 
@@ -71,11 +80,9 @@ last_modified_at: 2021-10-04
 <br>
 
 
-<span style="color:gray">
-참고자료
+<span style="color:gray">참고자료</span>
 
 * http://www.tcpschool.com/c/c_function_variableScope
 * https://stackoverflow.com/questions/5581234/why-are-there-no-global-variables-in-java
 * https://coderanch.com/t/542041/certification/global-variables-Java
 * https://shm-m.github.io/blog/global_variable
-</span>
