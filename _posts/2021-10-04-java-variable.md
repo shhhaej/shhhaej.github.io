@@ -1,6 +1,6 @@
 ---
 title: "전역변수와 멤버변수는 동일변수?"
-excerpt: "Java 변수"
+excerpt: "자바의 변수"
 
 categories:
   - Java
