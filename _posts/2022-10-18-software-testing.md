@@ -49,24 +49,25 @@ last_modified_at: 2022-10-18
 #### 오류의 발생 원인 
 <br>
 
-<span style="color:black">**인간의 실수**</span>
-<br>
+<span style="color:black">**인간의 실수**</span><br>
 - 요구사항 오류 및 변경
 - 시간적 압박
 - 복잡한 코드 및 기반 환경 
 - 기술 및 시스템 변경
 - 시스템 상호간의 연동
 - 소프트웨어 또는 시스템 코드에 결함의 모든 것
-
-
-<span style="color:black">**환경적 요인**</span>
 <br>
+<span style="color:black">**환경적 요인**</span><br>
 - 방사능, 자기장, 전기장장, 물리적 오염 등에 의한 소프트웨어 결함
 
 <br>
 
+---
+
 💡 <span style="color:purple">**결함 : 오류에 의해 발생**</span><br>
 💡 <span style="color:purple">**장애 : 예상과 다르게 동작함, 결함이 있는 소프트웨어 실행 시 발생(모든 결함이 장애가 발생하진 않는다.)**</span>
+
+---
 
 
 
