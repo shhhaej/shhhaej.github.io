@@ -47,7 +47,6 @@ last_modified_at: 2022-10-18
 <br>
 
 #### 오류의 발생 원인 
-<br>
 
 <span style="color:black">**인간의 실수**</span><br>
 - 요구사항 오류 및 변경
