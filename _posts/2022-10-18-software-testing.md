@@ -65,7 +65,7 @@ last_modified_at: 2022-10-18
 ---
 
 💡 <span style="color:purple">**결함 : 오류에 의해 발생**</span><br>
-💡 <span style="color:purple">**장애 : 예상과 다르게 동작함<br>    결함이 있는 소프트웨어 실행 시 발생 (모든 결함이 장애가 발생하진 않는다.)**</span>
+💡 <span style="color:purple">**장애 : 예상과 다르게 동작함, 결함이 있는 소프트웨어 실행 시 발생 (모든 결함이 장애가 발생하진 않는다.)**</span>
 
 ---
 
