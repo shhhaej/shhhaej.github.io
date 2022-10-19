@@ -1,13 +1,13 @@
 ---
-title: "Software Testing"
+title: "소프트웨어 테스팅의 기본"
 excerpt: "Software Testing"
 
 categories:
   - Software
 tags:
-  - [Software]
+  - [Software, Testing]
 
-permalink: /software/
+permalink: /software/testing/
 
 toc: true
 toc_sticky: true
@@ -57,6 +57,7 @@ last_modified_at: 2022-10-18
 - 시스템 상호간의 연동
 - 소프트웨어 또는 시스템 코드에 결함의 모든 것
 <br>
+
 <span style="color:black">**환경적 요인**</span><br>
 - 방사능, 자기장, 전기장장, 물리적 오염 등에 의한 소프트웨어 결함
 
@@ -65,7 +66,7 @@ last_modified_at: 2022-10-18
 ---
 
 💡 <span style="color:purple">**결함 : 오류에 의해 발생**</span><br>
-💡 <span style="color:purple">**장애 : 예상과 다르게 동작함, 결함이 있는 소프트웨어 실행 시 발생 (모든 결함이 장애가 발생하진 않는다.)**</span>
+💡 <span style="color:purple">**장애 : 예상과 다르게 동작함<br>    결함이 있는 소프트웨어 실행 시 발생 (모든 결함이 장애가 발생하진 않는다.)**</span>
 
 ---
 

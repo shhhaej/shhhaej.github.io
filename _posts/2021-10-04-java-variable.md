@@ -5,9 +5,9 @@ excerpt: "자바의 변수"
 categories:
   - Java
 tags:
-  - [Java / Java-variable]
+  - [Java, Java-variable]
 
-permalink: /java/java-variable
+permalink: /java/java-variable/
 
 toc: true
 toc_sticky: true

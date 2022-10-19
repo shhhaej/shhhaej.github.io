@@ -5,9 +5,9 @@ excerpt: "자바의 구조"
 categories:
   - Java
 tags:
-  - [Java / JVM / Java structure]
+  - [Java, JVM, Java structure]
 
-permalink: /java/JVM/java-program-structure
+permalink: /java/JVM/java-program-structure/
 
 toc: true
 toc_sticky: true
